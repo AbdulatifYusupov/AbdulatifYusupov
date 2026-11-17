@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AbdulatifYusupov/AbdulatifYusupov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey, I'm Abdulatif
 
-Here are some ideas to get you started:
+Cybersecurity enthusiast & AI-assisted software engineer  
+Currently studying in Košice, Slovakia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+**About me**
+
+- Learning cybersecurity, ethical hacking, network security and digital forensics  
+- Building small tools and solving CTF challenges  
+- Trying to write cleaner code with a bit of help from AI  
+- Still figuring things out, one step at a time
+
+**Stuff I use / learn**
+
+`Python` `C++` `Java` `Kali Linux` `Git` `MySQL`  
+`Network Security` `CTF` `Competitive Programming`
+
+**Outside of code**
+
+Speedcubing (and blindcubing), reading manhwa/manga, following tech and games
+
+---
+
+<div align="center">
+
+Thanks for stopping by 
+
+</div>
