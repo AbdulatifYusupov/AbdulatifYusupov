@@ -18,7 +18,7 @@ Currently studying in Košice, Slovakia
 
 **Stuff I use / learn**
 
-`Python` `C++` `Java` `Kali Linux` `Git` `MySQL`  
+`C++` `Kali Linux` `Git` `MySQL` `Godot`
 `Network Security` `CTF` `Competitive Programming`
 
 **Outside of code**
