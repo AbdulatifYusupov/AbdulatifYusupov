@@ -1,34 +1,31 @@
 <div align="center">
 
-### Hey, I'm Abdulatif
+### Abdulatif Yusupov
 
-Cybersecurity enthusiast & AI-assisted software engineer  
-Currently studying in Košice, Slovakia
+Cybersecurity student · Košice, Slovakia
 
 </div>
 
 ---
 
-**About me**
+**About**
 
-- Learning cybersecurity, ethical hacking, network security and digital forensics  
-- Building small tools and solving CTF challenges  
-- Trying to write cleaner code with a bit of help from AI  
-- Still figuring things out, one step at a time
+- Studying Cybersecurity Engineering at Pavol Jozef Šafárik University (UPJS)
+- Focused on ethical hacking, network security, digital forensics and CTF
+- Building practical tools (steganography, crypto, analysis)
 
-**Stuff I use / learn**
+**Technologies**
 
-`C++` `Kali Linux` `Git` `MySQL` `Godot` `Qt6` `Python`
-`Network Security` `CTF` `Competitive Programming`
+`C++` `Python` `Java` `Kali Linux` `Qt6` `OpenSSL` `OpenCV` `Git` `MySQL`
 
-**Outside of code**
+`Network Security` `Penetration Testing` `CTF` `Competitive Programming`
 
-Speedcubing (and blindcubing), reading manhwa/manga, following tech and games
+**Also**
+
+Speedcubing / blindcubing
 
 ---
 
 <div align="center">
-
-Thanks for stopping by 
 
 </div>
