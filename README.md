@@ -20,10 +20,6 @@ Cybersecurity student · Košice, Slovakia
 
 `Network Security` `Penetration Testing` `CTF` `Competitive Programming`
 
-**Also**
-
-Speedcubing / blindcubing
-
 ---
 
 <div align="center">
